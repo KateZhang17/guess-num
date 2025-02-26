@@ -14,5 +14,5 @@ while True:
 		print('Your guess is smaller than the true number.')
 
 	else:
-		print('Your guess if larger than the true number')
+		print('Your guess is larger than the true number')
 
